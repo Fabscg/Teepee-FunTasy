@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Fabskickass/Teepee-FunTasy/issues"
   },
-  "homepage": "https://github.com/Fabskickass/Teepee-FunTasy#readme"
+  "homepage": "https://github.com/Fabskickass/Teepee-FunTasy#readme",
+  "dependencies": {
+    "procfile": "^0.1.1"
+  }
 }
