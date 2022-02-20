@@ -21,7 +21,7 @@
  
 
   # Description
-   Is is a site that rents tents for kid's parties or sleep overs. 
+   This is a site that rents tents for kids's parties or sleep overs. 
 
   # Installation
   none
@@ -48,7 +48,6 @@
 
   ## [Github](https://github.com/Fabskickass)
   
-
   ## [Email](fabiscg79@gmail.com)
 
   ## ![Mock-Up](/Images/teepee-funtasy.png)
