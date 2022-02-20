@@ -1,16 +1,52 @@
-# Teepee-Funtasy
 
+  
+  # Teepees Funtasy
 
-## It is a website that rents tents for kids. They can use them to:
+  # Table of Contents
+  _________________________________
 
-* __Party__
-* __Sleep-overs__
-* __Families__
+[Description](#Description)
 
-** This site wasn't finish due to  the owner transfered the business. But this Website is very responsive and functional.
+[Installations](#Installations)
 
-* We used **Bootstrap** is order to make responsive this site and put some caroussel with some picturesand information about the site. 
+[Usage](#Usage)
 
-* Also some of the icons at the bottom of the page are not linked, again, because of changing owners.
+[Credits](#Credits)
 
+[License](#License)
 
+[Test](#Test)
+
+[Questions](#Questions)
+ 
+
+  # Description
+   Is is a site that rents tents for kid's parties or sleep overs. 
+
+  # Installation
+  none
+
+  # Usage
+  The site was deployed in Heroku, you only need to clickin the link to see the site. 
+
+  # Credits
+  none
+
+  # License
+  [![License](https://img.shields.io/badge/License--blue.svg)](https://opensource.org/licenses/)
+  
+  # Test
+  none
+
+  # Questions
+  _________________________________
+
+  ## If you have any further questions about this project, you can always contact me here:(Click Enter)
+
+  ## Name
+     Fabiola C. Gamboa
+
+  ## [Github](https://github.com/Fabskickass)
+  
+
+  ## [Email](fabiscg79@gmail.com)

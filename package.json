@@ -1,0 +1,20 @@
+{
+  "name": "teepee-funtasy",
+  "version": "1.0.0",
+  "description": "_________________________________",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabskickass/Teepee-FunTasy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabskickass/Teepee-FunTasy/issues"
+  },
+  "homepage": "https://github.com/Fabskickass/Teepee-FunTasy#readme"
+}
