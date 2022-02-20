@@ -1,6 +1,6 @@
 
   
-  # Teepees Funtasy
+  # Teepee Funtasy
 
   # Table of Contents
   _________________________________
@@ -50,3 +50,5 @@
   
 
   ## [Email](fabiscg79@gmail.com)
+
+  ## ![Mock-Up](/Images/teepee-funtasy.png)
